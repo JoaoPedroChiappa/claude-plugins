@@ -3,6 +3,11 @@ paths:
   - "app/_hooks/**/*.ts"
   - "app/_utils/**/*.ts"
   - "app/_context/**/*.tsx"
+globs:
+  - "app/_hooks/**/*.ts"
+  - "app/_utils/**/*.ts"
+  - "app/_context/**/*.tsx"
+alwaysApply: false
 ---
 
 # Hooks, utils e contextos

@@ -1,6 +1,9 @@
 ---
 paths:
   - "middleware/**/*.js"
+globs:
+  - "middleware/**/*.js"
+alwaysApply: false
 ---
 
 # Middleware

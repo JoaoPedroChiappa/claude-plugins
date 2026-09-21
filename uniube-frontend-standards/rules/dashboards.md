@@ -1,6 +1,9 @@
 ---
 paths:
   - "app/(routes)/*/page.tsx"
+globs:
+  - "app/(routes)/*/page.tsx"
+alwaysApply: false
 ---
 
 # Dashboards de módulo

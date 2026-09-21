@@ -1,0 +1,23 @@
+{
+  "name": "uniube-claude-plugins",
+  "owner": {
+    "name": "Uniube - Tecnologia"
+  },
+  "description": "Catálogo interno de plugins Cursor com os padrões de desenvolvimento da empresa (frontend Next.js e backend Express/Oracle).",
+  "plugins": [
+    {
+      "name": "uniube-frontend-standards",
+      "source": "./uniube-frontend-standards",
+      "description": "Skills, agents e rules genéricos para projetos frontend Next.js + componentes-uniube (App Router, React 19, Tailwind).",
+      "category": "web development",
+      "keywords": ["frontend", "nextjs", "react", "padronizacao", "uniube"]
+    },
+    {
+      "name": "uniube-backend-standards",
+      "source": "./uniube-backend-standards",
+      "description": "Skills, agents e rules genéricos para APIs Node.js + Express + Oracle.",
+      "category": "web development",
+      "keywords": ["backend", "express", "oracle", "api", "padronizacao", "uniube"]
+    }
+  ]
+}

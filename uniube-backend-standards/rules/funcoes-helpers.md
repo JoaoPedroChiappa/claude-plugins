@@ -2,6 +2,10 @@
 paths:
   - "routes/utils/**/*.js"
   - "**/*Funcoes.js"
+globs:
+  - "routes/utils/**/*.js"
+  - "**/*Funcoes.js"
+alwaysApply: false
 ---
 
 # Funções helpers

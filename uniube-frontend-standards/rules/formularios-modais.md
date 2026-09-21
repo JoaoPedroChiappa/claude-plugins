@@ -1,6 +1,9 @@
 ---
 paths:
   - "**/_modal/**/*.tsx"
+globs:
+  - "**/_modal/**/*.tsx"
+alwaysApply: false
 ---
 
 # Formulários e modais

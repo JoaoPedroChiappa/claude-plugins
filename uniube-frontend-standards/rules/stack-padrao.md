@@ -1,3 +1,7 @@
+---
+alwaysApply: true
+---
+
 # Padrão geral de frontend (Uniube)
 
 Baseado no Guia de Padronização — Front-end da empresa. Vale para todo projeto Next.js que usa a lib de UI compartilhada `componentes-uniube`.

@@ -1,3 +1,7 @@
+---
+alwaysApply: true
+---
+
 # Padrão geral de backend (Uniube)
 
 Baseado no Guia de Padronização — Back-end da empresa. Vale para APIs Node.js + Express + Oracle internas.

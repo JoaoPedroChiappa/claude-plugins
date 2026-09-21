@@ -2,6 +2,10 @@
 paths:
   - "auth/**/*.js"
   - "app.js"
+globs:
+  - "auth/**/*.js"
+  - "app.js"
+alwaysApply: false
 ---
 
 # Autenticação e `app.js`

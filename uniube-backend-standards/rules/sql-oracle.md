@@ -1,6 +1,9 @@
 ---
 paths:
   - "routes/**/*.js"
+globs:
+  - "routes/**/*.js"
+alwaysApply: false
 ---
 
 # SQL Oracle

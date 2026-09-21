@@ -1,3 +1,7 @@
+---
+alwaysApply: true
+---
+
 # Verificação de UI e uso do Browser pane
 
 Mudança de UI, layout, rota, modal, formulário ou dado em tela: **pergunte** ao usuário se ele quer que a verificação seja feita no Browser pane (ou lance o agent de testes, se o projeto tiver um). Só dirija o browser se ele pedir ou confirmar. Descrever a mudança sem realmente abrir a tela não conta como verificação — mas também não force o passo se não foi pedido.

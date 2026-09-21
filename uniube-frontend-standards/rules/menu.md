@@ -1,6 +1,9 @@
 ---
 paths:
   - "menu/**/*.json"
+globs:
+  - "menu/**/*.json"
+alwaysApply: false
 ---
 
 # Menu / navegação lateral

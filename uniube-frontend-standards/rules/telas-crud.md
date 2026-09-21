@@ -2,6 +2,10 @@
 paths:
   - "app/(routes)/**/cadastros/**/page.tsx"
   - "app/(routes)/**/consulta/**/page.tsx"
+globs:
+  - "app/(routes)/**/cadastros/**/page.tsx"
+  - "app/(routes)/**/consulta/**/page.tsx"
+alwaysApply: false
 ---
 
 # Telas de listagem/cadastro

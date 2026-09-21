@@ -1,3 +1,7 @@
+---
+alwaysApply: true
+---
+
 # Não refatorar (regra sempre ativa)
 
 Baseado no Guia de Padronização — Back-end da empresa. A maior fonte de risco em uma API legada não é a falta de padrão novo — é uma refatoração não pedida que quebra um comportamento em produção.

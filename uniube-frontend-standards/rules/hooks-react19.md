@@ -2,6 +2,10 @@
 paths:
   - "app/**/*.tsx"
   - "app/**/*.ts"
+globs:
+  - "app/**/*.tsx"
+  - "app/**/*.ts"
+alwaysApply: false
 ---
 
 # React 19 / ESLint — padrões de hooks

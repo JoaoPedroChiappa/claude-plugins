@@ -1,0 +1,9 @@
+{
+  "name": "uniube-frontend-standards",
+  "version": "1.0.0",
+  "description": "Padrões de frontend da Uniube para Claude Code: skills de criação de tela/formulário/dashboard/hook/testes, agents de revisão e verificação, e rules de convenção (stack, hooks React 19, CRUD, formulários, dashboards, menu).",
+  "author": {
+    "name": "Uniube - Tecnologia"
+  },
+  "keywords": ["frontend", "nextjs", "react", "componentes-uniube"]
+}

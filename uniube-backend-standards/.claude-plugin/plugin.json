@@ -1,0 +1,9 @@
+{
+  "name": "uniube-backend-standards",
+  "version": "1.0.0",
+  "description": "Padrões de backend da Uniube para Claude Code: skills de criação de rota/helper/middleware/teste, agents de busca/implementação/verificação, e rules de convenção (não-refatorar, rotas Express, SQL Oracle, middleware, auth, helpers).",
+  "author": {
+    "name": "Uniube - Tecnologia"
+  },
+  "keywords": ["backend", "express", "oracle", "api"]
+}
